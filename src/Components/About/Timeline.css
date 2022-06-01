@@ -22,3 +22,10 @@
      margin-top: 95%;
    }
   }
+  @media (max-width: 486px) {
+    #myTimeline{
+      margin-top: 105%;
+    }
+   }
+ 
+ 
