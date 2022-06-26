@@ -56,7 +56,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://myntra1.netlify.app/"
+                    href="https://myntra-clone-react-xi.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -105,7 +105,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://beardo-project.netlify.app/"
+                    href="https://beardoproject.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -152,7 +152,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://beardo-project.netlify.app/"
+                    href="https://beardoproject.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -198,7 +198,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://nykaaproject.netlify.app/"
+                    href="https://nykaawebsite.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
